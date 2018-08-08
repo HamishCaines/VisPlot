@@ -1,0 +1,4 @@
+!name YYYY-MM-DD RA:XXhXXmXX.X Dec: XXdXXmXXs Location Lat:deg Lon:deg Alt:m
+m81 2018-12-21 09h55m33.2s 69d03m55s UCLO
+m81 2018-08-06 09h55m33.2s 69d03m55s UCLO
+!test 2018-07-25 10h00m00.0s 69d00m00s TEST 51.0 0.0 100
